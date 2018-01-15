@@ -9,6 +9,7 @@ This extension for NetBeans adds snippets for Element for Vue.
 跟其他代码模板一样输入部分代码然后提示
 
 <h3>标签</h3>
+
 0. **row** : `<el-row></el-row>`
 1. **col** : `<el-col></el-col>`
 2. **color** : `<color></color>`
@@ -64,6 +65,7 @@ This extension for NetBeans adds snippets for Element for Vue.
 52. **coll** : `<el-collapse><el-collapse-item></el-collapse-item></el-collapse>`
 
 <h3>方法</h3>
+
 1. **msg** : `this.$message({	message: 'text',type: 'info'});`
 2. **alert** : `this.$alert('content', 'title', {confirmButtonText: 'confirm',callback: action => {}});`
 3. **confirm** : `this.$confirm('content', 'title', {confirmButtonText: 'confirm',cancelButtonText: 'cancel',type: 'warning',}).then(() => {,	,}).catch(() => {});`
