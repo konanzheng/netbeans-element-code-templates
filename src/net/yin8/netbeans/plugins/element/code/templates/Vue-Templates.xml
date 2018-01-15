@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+<!--    <codetemplate abbreviation="aClass" xml:space="preserve">
+        <code><![CDATA[[class]="${expression}"]]></code>
+        <description><![CDATA[Angular [class] binding]]></description>
+    </codetemplate>-->
+     
+</codetemplates>

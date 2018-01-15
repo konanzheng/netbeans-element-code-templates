@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+    <codetemplates>
+        <codetemplate abbreviation="layout" xml:space="preserve">
+        <code><![CDATA[<el-row></el-row>]]></code>
+        <description><![CDATA[Layout 布局]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="layout" xml:space="preserve">
+        <code><![CDATA[<el-col></el-col>]]></code>
+        <description><![CDATA[Layout 布局]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="color" xml:space="preserve">
+        <code><![CDATA[<color></color>]]></code>
+        <description><![CDATA[Color 色彩]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="typography" xml:space="preserve">
+        <code><![CDATA[<typography></typography>]]></code>
+        <description><![CDATA[Typography 字体]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="icon" xml:space="preserve">
+        <code><![CDATA[<icon></icon>]]></code>
+        <description><![CDATA[Icon 图标]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="button" xml:space="preserve">
+        <code><![CDATA[<el-button></el-button>]]></code>
+        <description><![CDATA[Button 按钮]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="radio" xml:space="preserve">
+        <code><![CDATA[<el-radio></el-radio>]]></code>
+        <description><![CDATA[Radio 单选框组]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="radio" xml:space="preserve">
+        <code><![CDATA[<el-radio-group></el-radio-group>]]></code>
+        <description><![CDATA[Radio 单选框组]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="checkbox" xml:space="preserve">
+        <code><![CDATA[<el-checkbox></el-checkbox>]]></code>
+        <description><![CDATA[Checkbox 多选框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="checkbox" xml:space="preserve">
+        <code><![CDATA[<el-checkbox-group></el-checkbox-group>]]></code>
+        <description><![CDATA[Checkbox 多选框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="input" xml:space="preserve">
+        <code><![CDATA[<el-input></el-input>]]></code>
+        <description><![CDATA[Input 输入框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="input" xml:space="preserve">
+        <code><![CDATA[<el-autocomplete></el-autocomplete>]]></code>
+        <description><![CDATA[Input 输入框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="input-number" xml:space="preserve">
+        <code><![CDATA[<el-input-number></el-input-number>]]></code>
+        <description><![CDATA[InputNumber 计数器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="select" xml:space="preserve">
+        <code><![CDATA[<el-select></el-select>]]></code>
+        <description><![CDATA[Select 选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="select" xml:space="preserve">
+        <code><![CDATA[<el-option></el-option>]]></code>
+        <description><![CDATA[Select 选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="select" xml:space="preserve">
+        <code><![CDATA[<el-option-group></el-option-group>]]></code>
+        <description><![CDATA[Select 选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="cascader" xml:space="preserve">
+        <code><![CDATA[<el-cascader></el-cascader>]]></code>
+        <description><![CDATA[Cascader 级联选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="switch" xml:space="preserve">
+        <code><![CDATA[<el-switch></el-switch>]]></code>
+        <description><![CDATA[Switch 开关]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="slider" xml:space="preserve">
+        <code><![CDATA[<el-slider></el-slider>]]></code>
+        <description><![CDATA[Slider 滑块]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="time-picker" xml:space="preserve">
+        <code><![CDATA[<el-time-picker></el-time-picker>]]></code>
+        <description><![CDATA[TimerPicker 时间选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="time-picker" xml:space="preserve">
+        <code><![CDATA[<el-time-select></el-time-select>]]></code>
+        <description><![CDATA[TimerPicker 时间选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="date-picker" xml:space="preserve">
+        <code><![CDATA[<el-date-picker></el-date-picker>]]></code>
+        <description><![CDATA[DatePicker 日期选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="datetime-picker" xml:space="preserve">
+        <code><![CDATA[<el-datetime-picker></el-datetime-picker>]]></code>
+        <description><![CDATA[DateTimePicker 日期时间选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="upload" xml:space="preserve">
+        <code><![CDATA[<el-upload></el-upload>]]></code>
+        <description><![CDATA[Upload 上传]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="rate" xml:space="preserve">
+        <code><![CDATA[<el-rate></el-rate>]]></code>
+        <description><![CDATA[Rate 评分]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="color-picker" xml:space="preserve">
+        <code><![CDATA[<el-color-picker></el-color-picker>]]></code>
+        <description><![CDATA[ColorPicker 颜色选择器]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="transfer" xml:space="preserve">
+        <code><![CDATA[<el-transfer></el-transfer>]]></code>
+        <description><![CDATA[ransfer 穿梭框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="form" xml:space="preserve">
+        <code><![CDATA[<el-form></el-form>]]></code>
+        <description><![CDATA[Form 表单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="form" xml:space="preserve">
+        <code><![CDATA[<el-form-item></el-form-item>]]></code>
+        <description><![CDATA[Form 表单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="table" xml:space="preserve">
+        <code><![CDATA[<el-table></el-table>]]></code>
+        <description><![CDATA[Table 表格]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="table" xml:space="preserve">
+        <code><![CDATA[<el-table-column></el-table-column>]]></code>
+        <description><![CDATA[Table 表格]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="tag" xml:space="preserve">
+        <code><![CDATA[<el-tag></el-tag>]]></code>
+        <description><![CDATA[Tag 标签]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="progress" xml:space="preserve">
+        <code><![CDATA[<el-progress></el-progress>]]></code>
+        <description><![CDATA[Progress 进度条]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="tree" xml:space="preserve">
+        <code><![CDATA[<el-tree></el-tree>]]></code>
+        <description><![CDATA[Tree 树形控件]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="pagination" xml:space="preserve">
+        <code><![CDATA[<el-pagination></el-pagination>]]></code>
+        <description><![CDATA[Pagination 分页]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="badge" xml:space="preserve">
+        <code><![CDATA[<el-badge></el-badge>]]></code>
+        <description><![CDATA[Badge 标记]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="alert" xml:space="preserve">
+        <code><![CDATA[<el-alert></el-alert>]]></code>
+        <description><![CDATA[Alert 警告]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="loading" xml:space="preserve">
+        <code><![CDATA[<v-loading></v-loading>]]></code>
+        <description><![CDATA[Loading 加载]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="message" xml:space="preserve">
+        <code><![CDATA[<$message></$message>]]></code>
+        <description><![CDATA[Message 消息提示]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="message-box" xml:space="preserve">
+        <code><![CDATA[<$alert></$alert>]]></code>
+        <description><![CDATA[MessageBox 弹框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="message-box" xml:space="preserve">
+        <code><![CDATA[<$prompt></$prompt>]]></code>
+        <description><![CDATA[MessageBox 弹框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="message-box" xml:space="preserve">
+        <code><![CDATA[<$msgbox></$msgbox>]]></code>
+        <description><![CDATA[MessageBox 弹框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="notification" xml:space="preserve">
+        <code><![CDATA[<$notify></$notify>]]></code>
+        <description><![CDATA[Notification 通知]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="menu" xml:space="preserve">
+        <code><![CDATA[<el-menu></el-menu>]]></code>
+        <description><![CDATA[NavMenu 导航菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="menu" xml:space="preserve">
+        <code><![CDATA[<el-submenu></el-submenu>]]></code>
+        <description><![CDATA[NavMenu 导航菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="menu" xml:space="preserve">
+        <code><![CDATA[<el-menu-item></el-menu-item>]]></code>
+        <description><![CDATA[NavMenu 导航菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="tabs" xml:space="preserve">
+        <code><![CDATA[<el-tabs></el-tabs>]]></code>
+        <description><![CDATA[Tabs 标签页]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="tabs" xml:space="preserve">
+        <code><![CDATA[<el-tab-pane></el-tab-pane>]]></code>
+        <description><![CDATA[Tabs 标签页]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="breadcrumb" xml:space="preserve">
+        <code><![CDATA[<el-breadcrumb></el-breadcrumb>]]></code>
+        <description><![CDATA[Breadcrumb 面包屑]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="dropdown" xml:space="preserve">
+        <code><![CDATA[<el-dropdown></el-dropdown>]]></code>
+        <description><![CDATA[Dropdown 下拉菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="dropdown" xml:space="preserve">
+        <code><![CDATA[<el-dropdown-menu></el-dropdown-menu>]]></code>
+        <description><![CDATA[Dropdown 下拉菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="dropdown" xml:space="preserve">
+        <code><![CDATA[<el-dropdown-item></el-dropdown-item>]]></code>
+        <description><![CDATA[Dropdown 下拉菜单]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="steps" xml:space="preserve">
+        <code><![CDATA[<el-steps></el-steps>]]></code>
+        <description><![CDATA[Steps 步骤条]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="dialog" xml:space="preserve">
+        <code><![CDATA[<el-dialog></el-dialog>]]></code>
+        <description><![CDATA[Dialog 对话框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="tooltip" xml:space="preserve">
+        <code><![CDATA[<el-tooltip></el-tooltip>]]></code>
+        <description><![CDATA[Tooltip 文字提示]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="popover" xml:space="preserve">
+        <code><![CDATA[<el-popover></el-popover>]]></code>
+        <description><![CDATA[Popover 弹出框]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="card" xml:space="preserve">
+        <code><![CDATA[<el-card></el-card>]]></code>
+        <description><![CDATA[Card 卡片]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="carousel" xml:space="preserve">
+        <code><![CDATA[<el-carousel></el-carousel>]]></code>
+        <description><![CDATA[Carousel 走马灯]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="carousel" xml:space="preserve">
+        <code><![CDATA[<el-carousel-item></el-carousel-item>]]></code>
+        <description><![CDATA[Carousel 走马灯]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="collapse" xml:space="preserve">
+        <code><![CDATA[<el-collapse></el-collapse>]]></code>
+        <description><![CDATA[Collapse 折叠面板]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="collapse" xml:space="preserve">
+        <code><![CDATA[<el-collapse-item></el-collapse-item>]]></code>
+        <description><![CDATA[Collapse 折叠面板]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="msg" xml:space="preserve">
+        <code><![CDATA[this.\$message({,	message: '${1:text}',,	type: '${2:info}',});]]></code>
+        <description><![CDATA[message]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="alert" xml:space="preserve">
+        <code><![CDATA[this.\$alert('${1:content}', '${2:title}', {,	confirmButtonText: '${3:confirm}',,	callback: ${4:action} => {,		,	},});]]></code>
+        <description><![CDATA[alert]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="confirm" xml:space="preserve">
+        <code><![CDATA[this.\$confirm('${1:content}', '${2:title}', {,	confirmButtonText: '${3:confirm}',,	cancelButtonText: '${4:cancel}',,	type: '${5:warning}',}).then(() => {,	,}).catch(() => {});]]></code>
+        <description><![CDATA[confirm]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="prompt" xml:space="preserve">
+        <code><![CDATA[this.\$prompt('${1:content}', '${2:title}', {,	confirmButtonText: '${3:confirm}',,	cancelButtonText: '${4:cancel}',,	inputPattern: /${5:regExp}/,,	inputErrorMessage: '${6:errormsg}',}).then(({ value }) => {,	,}).catch(() => {});]]></code>
+        <description><![CDATA[prompt]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="msgb" xml:space="preserve">
+        <code><![CDATA[this.\$msgbox({,	title: '${1:title}',,	message: '${2:string|VNode}',,	showCancelButton: ${3:true},,	confirmButtonText: '${4:confirm}',,	cancelButtonText: '${5:cancel}',,	beforeClose: (action, instance, done) => {},}).then(action => {,	,});]]></code>
+        <description><![CDATA[msgbox]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="notify" xml:space="preserve">
+        <code><![CDATA[this.\$notify({,	title: '${1:title}',,	message: '${2:string|VNode}',});]]></code>
+        <description><![CDATA[notify]]></description>
+    </codetemplate>
+</codetemplates>
