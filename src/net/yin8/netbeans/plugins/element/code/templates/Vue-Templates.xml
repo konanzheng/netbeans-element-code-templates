@@ -5,5 +5,28 @@
         <code><![CDATA[[class]="${expression}"]]></code>
         <description><![CDATA[Angular [class] binding]]></description>
     </codetemplate>-->
-     
+     <codetemplate abbreviation="msg" xml:space="preserve">
+        <code><![CDATA[this.$message({	message: 'text',type: 'info'});]]></code>
+        <description><![CDATA[message]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="alert" xml:space="preserve">
+        <code><![CDATA[this.$alert('content', 'title', {confirmButtonText: 'confirm',callback: action => {}});]]></code>
+        <description><![CDATA[alert]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="confirm" xml:space="preserve">
+        <code><![CDATA[this.$confirm('content', 'title', {confirmButtonText: 'confirm',cancelButtonText: 'cancel',type: 'warning',}).then(() => {,	,}).catch(() => {});]]></code>
+        <description><![CDATA[confirm]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="prompt" xml:space="preserve">
+        <code><![CDATA[this.$prompt('content', 'title', {confirmButtonText: 'confirm',cancelButtonText: 'cancel',inputPattern: /regExp/,inputErrorMessage: 'errormsg',}).then(({ value }) => {,	,}).catch(() => {});]]></code>
+        <description><![CDATA[prompt]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="msgb" xml:space="preserve">
+        <code><![CDATA[this.$msgbox({,	title: 'title',message: 'string|VNode',showCancelButton: true,confirmButtonText: 'confirm',cancelButtonText: 'cancel',beforeClose: (action, instance, done) => {},}).then(action => {,	,});]]></code>
+        <description><![CDATA[msgbox]]></description>
+    </codetemplate>
+    <codetemplate abbreviation="notify" xml:space="preserve">
+        <code><![CDATA[this.$notify({,	title: 'title',message: 'string|VNode',});]]></code>
+        <description><![CDATA[notify]]></description>
+    </codetemplate>
 </codetemplates>

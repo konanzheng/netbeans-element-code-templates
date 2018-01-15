@@ -3,5 +3,5 @@ AutoUpdate-Show-In-Client: true
 OpenIDE-Module: net.yin8.netbeans.plugins.element.code.templates
 OpenIDE-Module-Layer: net/yin8/netbeans/plugins/element/code/templates/layer.xml
 OpenIDE-Module-Localizing-Bundle: net/yin8/netbeans/plugins/element/code/templates/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.1
+OpenIDE-Module-Specification-Version: 1.4
 

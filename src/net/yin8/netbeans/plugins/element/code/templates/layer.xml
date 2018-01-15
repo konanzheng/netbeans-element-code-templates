@@ -3,12 +3,12 @@
 <filesystem>
     <folder name="Editors">
         <folder name="text">
-            <folder name="vue">
+            <folder name="javascript">
                 <folder name="CodeTemplates">
                     <file name="Vue-Templates.xml" url="Vue-Templates.xml" />
                 </folder>
             </folder>
-            <folder name="element">
+            <folder name="html">
                 <folder name="CodeTemplates">
                     <file name="Element-Templates.xml" url="Element-Templates.xml" />
                 </folder>
